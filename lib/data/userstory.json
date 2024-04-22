@@ -6,7 +6,7 @@
       "duration": "5.0",
       "caption": "Stay healthy! #foodtiktok #igstoryideas #gifsinstagram #msnglng #ig... | TikTok",
       "when": "14 hours ago",
-      "color": ""
+      "color": "#FF0000"
     },
     {
       "mediaType": "text",
@@ -14,7 +14,7 @@
       "duration": "4.0",
       "caption": "",
       "when": "3 hours ago",
-      "color": "#303f9f"
+      "color": "#FF0000"
     },
     {
       "mediaType": "video",
@@ -22,7 +22,7 @@
       "duration": "4.0",
       "caption": "By Blender Foundation",
       "when": "2 hours ago",
-      "color": ""
+      "color": "#FF0000"
     },
     {
       "mediaType": "image",
@@ -30,7 +30,7 @@
       "duration": "5.0",
       "caption": "Time for a little escape ✈🐧",
       "when": "1 hours ago",
-      "color": ""
+      "color": "#FF0000"
     },
     {
       "mediaType": "image",
@@ -38,7 +38,7 @@
       "duration": "5.0",
       "caption": "Plata o plomo? Si or no",
       "when": "40 minutes ago",
-      "color": ""
+      "color": "#FF0000"
     },
     {
       "mediaType": "image",
@@ -46,7 +46,7 @@
       "duration": "5.0",
       "caption": "Aww geez Rick. aww naaawwww",
       "when": "10 minutes ago",
-      "color": ""
+      "color": "#FF0000"
     },
     {
       "mediaType": "text",
@@ -54,7 +54,7 @@
       "duration": "4.0",
       "caption": "Jesse pink man is totally underrated. This guy!!",
       "when": "7 minutes ago",
-      "color": "#d32f2f"
+      "color": "#FF0000"
     },
     {
       "mediaType": "image",
@@ -62,7 +62,7 @@
       "duration": "5.0",
       "caption": "I'm so happy. Today turned out to be the best. Woohhh!!",
       "when": "6 minutes ago",
-      "color": ""
+      "color": "#FF0000"
     },
     {
       "mediaType": "text",
@@ -70,7 +70,7 @@
       "duration": "4.0",
       "caption": "I hope you enjoyed the stories. Now go ahead and add stories to your app with the story_view library.",
       "when": "just now",
-      "color": "#ff8f00"
+      "color": "#FF0000"
     }
   ]
 }
