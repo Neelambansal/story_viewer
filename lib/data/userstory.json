@@ -14,7 +14,7 @@
       "duration": "4.0",
       "caption": "",
       "when": "3 hours ago",
-      "color": ""
+      "color": "#303f9f"
     },
     {
       "mediaType": "video",
@@ -54,7 +54,7 @@
       "duration": "4.0",
       "caption": "Jesse pink man is totally underrated. This guy!!",
       "when": "7 minutes ago",
-      "color": ""
+      "color": "#d32f2f"
     },
     {
       "mediaType": "image",
@@ -70,7 +70,7 @@
       "duration": "4.0",
       "caption": "I hope you enjoyed the stories. Now go ahead and add stories to your app with the story_view library.",
       "when": "just now",
-      "color": ""
+      "color": "#ff8f00"
     }
   ]
 }
