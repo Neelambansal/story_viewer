@@ -1,16 +1,25 @@
-# story_viewer
 
-A new Flutter project.
+# Story_viewer
 
-## Getting Started
+This is a sample app for building instagram like story_viewer using flutter.
 
-This project is a starting point for a Flutter application.
+# Usage
 
-A few resources to get you started if this is your first Flutter project:
+First, add story_view package as a dependency in your pubspec.yaml as below.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```bash
+  dependencies:
+  story_view: ^0.16.5
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+or by running following command in terminal. 
+```bash
+  flutter pub add story_view 
+```
+
+
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+
